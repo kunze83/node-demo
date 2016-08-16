@@ -11,5 +11,8 @@
     "url": "http://localhost/devops/node-demo.git"
   },
   "author": "Mike Kunze",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
