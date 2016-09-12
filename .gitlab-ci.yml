@@ -10,3 +10,5 @@ build:
   stage: build
   script:
     - docker build -t node-demo .
+
+# at this point we need to push to a valid registry.  non-ssl registry for local dev in work in progress
